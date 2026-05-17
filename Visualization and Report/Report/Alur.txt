@@ -1,1 +1,0 @@
-Visual (powerBI) - Problem Understanding - Data Understanding (with feature selection for train model) - Evaluation Model - Summary Result
