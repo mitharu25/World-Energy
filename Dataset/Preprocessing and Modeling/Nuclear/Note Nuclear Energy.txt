@@ -1,0 +1,15 @@
+Colonm used for Analyst, Modeling, and Forecasting data nuclear Energy:
+1. Country
+2. year
+3. population
+4. gdp
+5. nuclear_elec_per_capita
+6. nuclear_electricity
+7. nuclear_consumption (Target)
+
+Feature Engineering
+1. country_te
+2. rolling_mean_3
+3. lag_1
+4. lag_2
+5. lag_3

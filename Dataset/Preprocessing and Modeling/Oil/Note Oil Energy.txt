@@ -1,0 +1,18 @@
+Colonm used for Analyst, Modeling, and Forecasting data Oil Energy:
+1. Country
+2. year
+3. population
+4. gdp
+5. oil_elec_per_capita
+6. oil_electricity
+7. oil_prod_per_capita
+8. oil_production
+9. oil_consumption (Target)
+Note: In the main oil energy dataset, there is a production column feature, so this feature is used for model training material and this is different from other energy features.
+
+Feature Engineering
+1. country_te
+2. rolling_mean_3
+3. lag_1
+4. lag_2
+5. lag_3

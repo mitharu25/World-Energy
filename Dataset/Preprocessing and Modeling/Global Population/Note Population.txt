@@ -1,0 +1,4 @@
+Colonm used for Analyst, Modeling, and Forecasting data global population:
+1. Country
+2. year
+3. population (Target)
